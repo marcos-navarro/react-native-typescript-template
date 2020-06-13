@@ -1,4 +1,5 @@
 # React Native - Typescript Template
+![react-native-typescript](https://miro.medium.com/max/2560/1*tyexCHD9V6lY54iJX2gM1g.jpeg)
 
 This is only my quick start template for typescript apps with react native.
 
